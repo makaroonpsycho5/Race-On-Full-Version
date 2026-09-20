@@ -246,4 +246,4 @@ This repository serves as the official landing page for RACE On. The software is
 **Get the most recent version of RACE On today!**
 
 ---
-**Last updated:** 2026-09-20 17:08:56 UTC
+**Last updated:** 2026-09-20 20:00:08 UTC
